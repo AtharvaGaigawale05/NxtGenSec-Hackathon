@@ -86,13 +86,13 @@ DocuMind AI enables users to upload PDFs and interact with them using natural la
 
 ## 🌍 Live Demo
 
-🔗 https://your-live-demo-link
+🔗 https://example-hackathon.lovable.app
 
 ---
 
 ## 📂 GitHub Repository
 
-🔗 https://your-github-repo-link
+🔗 https://github.com/AtharvaGaigawale05/NxtGenSec-Hackathon/
 
 ---
 
